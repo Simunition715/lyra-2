@@ -1,3 +1,13 @@
+## 0.1.0
+
+## Added
+
+- [`ADDED`]: Added code to test
+
+## Fixed
+
+- [`FIXED`]: Testing hotvix version number
+
 ## 1.0.0
 
 ## Features
